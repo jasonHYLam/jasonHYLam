@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Jason, a full-stack web developer.
+
+## Technologies used:
+- Frontend: ReactJS, TypeScript, JavaScript
+- Backend: NodeJS + ExpressJS, C# + .NET
+- Databases: MongoDB, PostgreSQL
+
+## Things I've created
+Created Saturated, a web app to help artists improve their skills. It features image uploading, note tagging and image analysis tools.
+
+[Live link](https://saturated.netlify.app/)
+
+[Frontend repo](https://github.com/jasonHYLam/saturated-frontend)
+
+[Backend repo](https://github.com/jasonHYLam/saturated-backend)
+
+https://github.com/jasonHYLam/saturated-frontend/assets/105083538/cf9a7035-7263-4ae8-b17c-39948c873aba
