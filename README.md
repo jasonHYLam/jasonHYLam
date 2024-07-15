@@ -25,7 +25,7 @@ I'm Jason, a full-stack web developer.
 
 ### Saturated (art studying app)
 Created Saturated, a web app to help artists improve their observation skills. It features image uploading, tagging notes onto images, and image analysis tools.
-- [Live link](https://saturated.netlify.app/)
+- [Live link](https://saturated.netlify.app/login)
 - [Frontend repo](https://github.com/jasonHYLam/saturated-frontend)
 - [Backend repo](https://github.com/jasonHYLam/saturated-backend)
 
@@ -33,7 +33,7 @@ https://github.com/jasonHYLam/saturated-frontend/assets/105083538/cf9a7035-7263-
 
 ### Tabasco (social media app)
 Created Tabasco, a social media app featuring post and comment creation, likes, adding friends, and image uploading.
-- [Live link](https://tabasco.netlify.app/)
+- [Live link](https://tabasco.netlify.app/login)
 - [Frontend repo](https://github.com/jasonHYLam/Odinbook)
 - [Backend repo](https://github.com/jasonHYLam/Odinbook-Server/tree/main)
   
