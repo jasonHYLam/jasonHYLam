@@ -33,7 +33,7 @@ https://github.com/jasonHYLam/saturated-frontend/assets/105083538/cf9a7035-7263-
 
 ### Tabasco (social media app)
 Created Tabasco, a social media app featuring post and comment creation, likes, adding friends, and image uploading.
-- [Live link](https://tabasco.netlify.app/login)
+- [Live link](https://tabasco.netlify.app/)
 - [Frontend repo](https://github.com/jasonHYLam/Odinbook)
 - [Backend repo](https://github.com/jasonHYLam/Odinbook-Server/tree/main)
   
